@@ -1,5 +1,5 @@
 # Portfolio de Yassine Elmiri
-https://yassineelmiri.github.io/Portfoli_yassine_elmiri/
+https://yassineelmiri.github.io/Portfolio/
 
 Bienvenue sur mon portfolio ! Je m'appelle Yassine Elmiri, un développeur Full Stack passionné par la programmation et les nouvelles technologies.
 
@@ -15,7 +15,7 @@ Je suis un développeur Full Stack qui a acquis mes compétences à l'École You
 
 ## Voir mon portfolio
 
-Vous pouvez visiter mon portfolio en ligne en suivant ce lien : [https://yassineelmiri.github.io/Portfoli_yassine_elmiri/](https://yassineelmiri.github.io/Portfoli_yassine_elmiri/)
+Vous pouvez visiter mon portfolio en ligne en suivant ce lien : [https://yassineelmiri.github.io/Portfolio/](https://yassineelmiri.github.io/Portfolio/)
 
 ## Contact
 
